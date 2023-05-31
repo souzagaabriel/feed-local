@@ -1,4 +1,4 @@
-store_id	id	price	quantity	availability
+store_code	id	price	quantity	availability
 RUKATEM	2986	94,90	2	in_stock
 RUKATEM	3029	28,90	0	in_stock
 RUKATEM	3589	3,50	29	in_stock
