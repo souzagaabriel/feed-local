@@ -1,4 +1,4 @@
-store_id	id	price	availability
+store_code	id	price	availability
 IDEALTRIX	1050-4	17,58	in_stock
 IDEALTRIX	1180-3	8,00	in_stock
 IDEALTRIX	78	15,00	in_stock
