@@ -1,4 +1,4 @@
-store_id	id	price	availability
+store_code	id	price	availability
 LUMAX	10112	25,00	in_stock
 LUMAX	GE235	31,00	in_stock
 LUMAX	GE011	31,00	in_stock
