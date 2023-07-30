@@ -1,4 +1,4 @@
-store_code	id	price	quantity
+store_code	id	price	availability
 1	GE235	40,00	in_stock
 1	GE011	40,00	in_stock
 1	G002	40,00	in_stock
