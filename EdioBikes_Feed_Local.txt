@@ -1,391 +1,315 @@
-store_code	id	price	availability
-1	GE235	40,3	in_stock
-1	GE011	40,3	in_stock
-1	G002	40,3	in_stock
-1	G329	63,7	in_stock
-1	G058	63,7	in_stock
-1	GE335	58,5	in_stock
-1	A002	63,7	in_stock
-1	56024	76,7	in_stock
-1	3031	79,3	in_stock
-1	150400	74,1	in_stock
-1	76756	70,2	in_stock
-1	2259	102,7	in_stock
-1	55305	54,6	in_stock
-1	59920	20,8	in_stock
-1	59921	23,4	in_stock
-1	11773	19,5	in_stock
-1	59759	46,8	in_stock
-1	976	39,00	in_stock
-1	59563	42,9	in_stock
-1	59562	40,3	in_stock
-1	1778	40,3	in_stock
-1	59874	48,1	in_stock
-1	59879	33,8	in_stock
-1	72683	24,7	in_stock
-1	17309	57,2	in_stock
-1	508	76,7	in_stock
-1	160039	115,7	in_stock
-1	919	141,7	in_stock
-1	50546	180,7	in_stock
-1	11209	128,7	in_stock
-1	11213	167,7	in_stock
-1	13941	110,5	in_stock
-1	1132	141,7	in_stock
-1	1056	206,7	in_stock
-1	5658	167,7	in_stock
-1	9044	104,00	in_stock
-1	8946	310,7	in_stock
-1	487	278,2	in_stock
-1	4932	179,4	in_stock
-1	72006	76,7	in_stock
-1	9844	505,7	in_stock
-1	43993	494,00	in_stock
-1	10344	102,7	in_stock
-1	44931	221,00	in_stock
-1	4963	409,5	in_stock
-1	449	44,2	in_stock
-1	8876	50,7	in_stock
-1	43278	84,5	in_stock
-1	GE235	40,3	in_stock
-1	GE011	40,3	in_stock
-1	G002	40,3	in_stock
-1	G329	63,7	in_stock
-1	G058	63,7	in_stock
-1	GE335	58,5	in_stock
-1	A002	63,7	in_stock
-1	10112	5,00	in_stock
-1	11985	9,1	in_stock
-1	54991	13,00	in_stock
-1	43173	20,8	in_stock
-1	901374	37,7	in_stock
-1	53129	5,2	in_stock
-1	9443	61,1	in_stock
-1	6027	63,7	in_stock
-1	11880	63,7	in_stock
-1	2026	76,7	in_stock
-1	43286	84,5	in_stock
-1	51640	63,7	in_stock
-1	511717	63,7	in_stock
-1	15069	63,7	in_stock
-1	44238	76,7	in_stock
-1	4564	29,9	in_stock
-1	9991	32,5	in_stock
-1	1154	36,4	in_stock
-1	10174	89,7	in_stock
-1	10175	89,7	in_stock
-1	9988	50,7	in_stock
-1	10236	33,8	in_stock
-1	10003	68,9	in_stock
-1	10274	66,3	in_stock
-1	150652	72,8	in_stock
-1	9722	32,5	in_stock
-1	4959	81,9	in_stock
-1	44345	58,5	in_stock
-1	3424	9,1	in_stock
-1	14637	7,8	in_stock
-1	108103	1,95	in_stock
-1	8104	3,00	in_stock
-1	53211	4,00	in_stock
-1	55160	10,00	in_stock
-1	59988	20,15	in_stock
-1	10132	18,2	in_stock
-1	10134	19,5	in_stock
-1	9265	29,9	in_stock
-1	9333	23,4	in_stock
-1	59759	46,8	in_stock
-1	59563	42,9	in_stock
-1	10137	29,9	in_stock
-1	59874	48,1	in_stock
-1	59652	46,8	in_stock
-1	59879	33,8	in_stock
-1	9293	24,7	in_stock
-1	51944	40,3	in_stock
-1	9610	15,6	in_stock
-1	9295	24,7	in_stock
-1	2010	22,1	in_stock
-1	8244	18,2	in_stock
-1	53966	63,7	in_stock
-1	53965	58,5	in_stock
-1	9450	28,6	in_stock
-1	10070	29,9	in_stock
-1	5847	67,6	in_stock
-1	108	58,5	in_stock
-1	102238	128,7	in_stock
-1	1292	109,2	in_stock
-1	12052	32,5	in_stock
-1	939	32,5	in_stock
-1	172	15,6	in_stock
-1	304569	26,00	in_stock
-1	51681	9,1	in_stock
-1	1534	7,8	in_stock
-1	13819	254,8	in_stock
-1	14335	413,4	in_stock
-1	42850	109,2	in_stock
-1	9456	206,7	in_stock
-1	3156	305,5	in_stock
-1	13821	245,7	in_stock
-1	4186	27,3	in_stock
-1	901361	46,8	in_stock
-1	904593	2,6	in_stock
-1	1239	39,00	in_stock
-1	40041	7,8	in_stock
-1	98119	89,7	in_stock
-1	6619	258,7	in_stock
-1	131	20,00	in_stock
-1	51513	26,00	in_stock
-1	1332	29,00	in_stock
-1	42180	63,7	in_stock
-1	42879	61,1	in_stock
-1	51516	174,00	in_stock
-1	51713	44,2	in_stock
-1	9861	18,00	in_stock
-1	9863	15,6	in_stock
-1	8149	27,3	in_stock
-1	43997	68,9	in_stock
-1	9103	189,8	in_stock
-1	409203	107,9	in_stock
-1	5246	189,8	in_stock
-1	5245	213,2	in_stock
-1	15062	45,5	in_stock
-1	51079	62,4	in_stock
-1	51078	76,7	in_stock
-1	5620	14,3	in_stock
-1	580	16,9	in_stock
-1	6344	7,8	in_stock
-1	9104	13,00	in_stock
-1	1129	19,5	in_stock
-1	9205	11,7	in_stock
-1	54090	19,5	in_stock
-1	43479	2,6	in_stock
-1	140	31,2	in_stock
-1	1500	39,00	in_stock
-1	5630	23,4	in_stock
-1	42989	4,55	in_stock
-1	54955	20,8	in_stock
-1	1025	6,5	in_stock
-1	1200	128,7	in_stock
-1	7588	97,5	in_stock
-1	1161	166,4	in_stock
-1	44370	62,4	in_stock
-1	1354	62,4	in_stock
-1	1371	46,8	in_stock
-1	4223	349,7	in_stock
-1	292	24,7	in_stock
-1	9079	24,7	in_stock
-1	5638	388,7	in_stock
-1	GE310	40,3	in_stock
-1	GE012	40,3	in_stock
-1	GE340	40,3	in_stock
-1	GE047	40,3	in_stock
-1	GE009	40,3	in_stock
-1	GE077	40,3	in_stock
-1	G299	77,99	in_stock
-1	GE299	40,3	in_stock
-1	GE093	40,3	in_stock
-1	G025	40,3	in_stock
-1	GE031	40,3	in_stock
-1	GE358	40,3	in_stock
-1	GE052	40,3	in_stock
-1	G030	40,3	in_stock
-1	GE306	40,3	in_stock
-1	53967	6,5	in_stock
-1	GE174	40,3	in_stock
-1	GE216	40,3	in_stock
-1	GE043	40,3	in_stock
-1	GE092	40,3	in_stock
-1	GE022	40,3	in_stock
-1	GE225	40,3	in_stock
-1	GE007	40,3	in_stock
-1	101045	40,3	in_stock
-1	GE010	40,3	in_stock
-1	G109	57,2	in_stock
-1	GE039	40,3	in_stock
-1	G139	40,3	in_stock
-1	GE036	40,3	in_stock
-1	GE021	40,3	in_stock
-1	GE370	40,3	in_stock
-1	G259	40,3	in_stock
-1	GE330	40,3	in_stock
-1	GE002	40,3	in_stock
-1	14294	55,9	in_stock
-1	GE024	40,3	in_stock
-1	GE302	40,3	in_stock
-1	GE023	40,3	in_stock
-1	GE042	40,3	in_stock
-1	GE008	40,3	in_stock
-1	GE019	40,3	in_stock
-1	GE303	40,3	in_stock
-1	GE121	40,3	in_stock
-1	GE001	40,3	in_stock
-1	GE346	40,3	in_stock
-1	G183	89,7	in_stock
-1	GE343	40,3	in_stock
-1	GE044	40,3	in_stock
-1	GE016	40,3	in_stock
-1	GE004	40,3	in_stock
-1	G004	40,3	in_stock
-1	G190	40,3	in_stock
-1	GE045	40,3	in_stock
-1	GE270	40,3	in_stock
-1	GE040	40,3	in_stock
-1	GE028	40,3	in_stock
-1	GE038	40,3	in_stock
-1	GE287	40,3	in_stock
-1	11209	128,7	in_stock
-1	11213	167,7	in_stock
-1	13941	110,5	in_stock
-1	1132	141,7	in_stock
-1	5658	167,7	in_stock
-1	50546	180,7	in_stock
-1	9968	325,00	in_stock
-1	11214	128,7	in_stock
-1	14713	26,00	in_stock
-1	7279	31,2	in_stock
-1	82220	94,9	in_stock
-1	50886	102,7	in_stock
-1	10048	32,5	in_stock
-1	58319	37,7	in_stock
-1	KIT-000001	1428,7	in_stock
-1	56678	122,2	in_stock
-1	6580	707,2	in_stock
-1	80334	15,6	in_stock
-1	80333	22,1	in_stock
-1	105	63,7	in_stock
-1	382	13,00	in_stock
-1	51321	17,55	in_stock
-1	51601	18,00	in_stock
-1	44958	22,1	in_stock
-1	44366	22,1	in_stock
-1	44959	22,1	in_stock
-1	44363	18,2	in_stock
-1	9728	9,1	in_stock
-1	80062	2,6	in_stock
-1	5717	29,9	in_stock
-1	4087	35,1	in_stock
-1	44234	35,1	in_stock
-1	3819	10,4	in_stock
-1	794257	13,00	in_stock
-1	13656	15,6	in_stock
-1	44250	18,2	in_stock
-1	52991	11,7	in_stock
-1	564	55,9	in_stock
-1	43864	20,8	in_stock
-1	41549	72,8	in_stock
-1	1297	1,3	in_stock
-1	11481	2,41	in_stock
-1	1310	1,3	in_stock
-1	1293	1,3	in_stock
-1	42997	10,4	in_stock
-1	52193	2,6	in_stock
-1	52194	2,6	in_stock
-1	52195	1,95	in_stock
-1	52196	2,6	in_stock
-1	13697	63,7	in_stock
-1	44138	32,5	in_stock
-1	51524	18,2	in_stock
-1	51523	18,2	in_stock
-1	44135	18,2	in_stock
-1	44137	19,5	in_stock
-1	8367	128,7	in_stock
-1	57379	29,9	in_stock
-1	56309	18,2	in_stock
-1	8366	127,4	in_stock
-1	8769	13,00	in_stock
-1	2063	12,35	in_stock
-1	107665	11,7	in_stock
-1	9185	45,5	in_stock
-1	9184	15,6	in_stock
-1	1308	11,7	in_stock
-1	44931	221,00	in_stock
-1	449	44,2	in_stock
-1	14666	92,3	in_stock
-1	14669	92,3	in_stock
-1	6244	28,6	in_stock
-1	6249	22,1	in_stock
-1	39872	27,3	in_stock
-1	813	9,1	in_stock
-1	778	3,9	in_stock
-1	150400	74,1	in_stock
-1	901258	76,7	in_stock
-1	2259	102,7	in_stock
-1	55305	54,6	in_stock
-1	153326	102,7	in_stock
-1	A004	66,3	in_stock
-1	16516	7,8	in_stock
-1	81277	7,8	in_stock
-1	81278	7,8	in_stock
-1	44982	648,7	in_stock
-1	44996	617,5	in_stock
-1	44664	0,65	in_stock
-1	8184	0,52	in_stock
-1	624	0,39	in_stock
-1	8186	0,52	in_stock
-1	44752	1,17	in_stock
-1	44753	1,24	in_stock
-1	44760	1,43	in_stock
-1	44791	1,56	in_stock
-1	901358	0,46	in_stock
-1	44756	1,63	in_stock
-1	43851	0,72	in_stock
-1	9357	0,78	in_stock
-1	5350	2,34	in_stock
-1	757	2,47	in_stock
-1	43295	0,52	in_stock
-1	44796	1,43	in_stock
-1	44459	1,11	in_stock
-1	44766	1,24	in_stock
-1	764	2,47	in_stock
-1	420386	2,34	in_stock
-1	5355	2,34	in_stock
-1	106869	36,4	in_stock
-1	152375	37,7	in_stock
-1	119	128,7	in_stock
-1	40748	18,2	in_stock
-1	52587	22,1	in_stock
-1	186	35,1	in_stock
-1	43417	6,5	in_stock
-1	43418	7,15	in_stock
-1	43131	93,6	in_stock
-1	1261	1,3	in_stock
-1	835	1,3	in_stock
-1	3999	35,1	in_stock
-1	81340	126,1	in_stock
-1	50168	157,3	in_stock
-1	500218	29,9	in_stock
-1	3997	27,3	in_stock
-1	5338	4,55	in_stock
-1	6430	24,7	in_stock
-1	6047	5,2	in_stock
-1	6915	14,3	in_stock
-1	1321	61,1	in_stock
-1	9062	31,2	in_stock
-1	9782	39,00	in_stock
-1	110022	63,7	in_stock
-1	6256	96,2	in_stock
-1	29887	31,2	in_stock
-1	9169	39,00	in_stock
-1	CANT-6426	58,5	in_stock
-1	14087	61,1	in_stock
-1	2410	39,00	in_stock
-1	8220	20,8	in_stock
-1	44154	63,7	in_stock
-1	44024	24,7	in_stock
-1	8171	44,2	in_stock
-1	9793	33,8	in_stock
-1	4272	48,1	in_stock
-1	8932	218,4	in_stock
-1	4434	15,6	in_stock
-1	5521	23,4	in_stock
-1	53729	7,8	in_stock
-1	9075	23,4	in_stock
-1	4667	10,4	in_stock
-1	22555	226,2	in_stock
-1	009031-1	128,7	in_stock
-1	009030-1	128,7	in_stock
-1	009458-1	87,1	in_stock
-1	042970-1	76,7	in_stock
-1	KIT-000002-1	137,8	in_stock
-1	000858-1	163,8	in_stock
-1	KIT-000010	130,00	in_stock
-1	KIT-000009	130,00	in_stock
+﻿row_number,store_code,id,price,availability
+2,1,9991,35,in_stock
+3,1,44238,80,in_stock
+4,1,15069,65,in_stock
+5,1,51640,60,out_of_stock
+6,1,11880,75,in_stock
+7,1,6027,65,in_stock
+8,1,53129,10,in_stock
+9,1,901374,35,in_stock
+10,1,1095,5,in_stock
+11,1,A002,65,in_stock
+12,1,GE335,60,in_stock
+13,1,G058,65,in_stock
+14,1,G329,65,in_stock
+15,1,G002,45,in_stock
+16,1,GE011,45,in_stock
+17,1,GE235,45,in_stock
+18,1,51717,65,out_of_stock
+19,1,9443,65,out_of_stock
+20,1,43173,25,out_of_stock
+21,1,54991,15,in_stock
+22,1,11985,10,in_stock
+23,1,22555,220,in_stock
+24,1,4667,15,in_stock
+25,1,9075,25,in_stock
+26,1,53729,10,in_stock
+27,1,5521,25,in_stock
+28,1,4434,15,in_stock
+29,1,5658,170,in_stock
+30,1,8932,220,in_stock
+31,1,4272,50,in_stock
+32,1,44024,25,in_stock
+33,1,44154,65,in_stock
+34,1,8220,25,out_of_stock
+35,1,2410,40,in_stock
+36,1,14087,65,in_stock
+37,1,6426,60,out_of_stock
+38,1,29887,35,in_stock
+39,1,6256,100,in_stock
+40,1,9782,45,in_stock
+41,1,10022,50,out_of_stock
+42,1,9062,35,in_stock
+43,1,1321,65,in_stock
+44,1,6915,15,in_stock
+45,1,6047,10,in_stock
+46,1,6430,25,in_stock
+47,1,5338,10,out_of_stock
+48,1,3997,30,in_stock
+49,1,500218,30,in_stock
+50,1,50168,160,in_stock
+51,1,81340,130,in_stock
+52,1,3999,40,in_stock
+53,1,835,5,in_stock
+54,1,1261,5,in_stock
+55,1,43131,95,in_stock
+56,1,43418,10,in_stock
+57,1,43417,10,in_stock
+58,1,186,35,in_stock
+59,1,52587,25,in_stock
+60,1,40748,20,in_stock
+61,1,152375,40,out_of_stock
+62,1,106869,45,out_of_stock
+63,1,5355,5,in_stock
+64,1,420386,5,in_stock
+65,1,764,5,in_stock
+66,1,44766,5,in_stock
+67,1,44459,5,in_stock
+68,1,43295,5,in_stock
+69,1,757,5,in_stock
+70,1,5350,5,in_stock
+71,1,9357,5,in_stock
+72,1,43851,5,in_stock
+73,1,44756,5,out_of_stock
+74,1,901358,5,in_stock
+75,1,44791,5,in_stock
+76,1,44760,5,in_stock
+77,1,44753,5,in_stock
+78,1,44752,5,in_stock
+79,1,8186,5,in_stock
+80,1,624,5,in_stock
+81,1,8184,5,in_stock
+82,1,44664,5,in_stock
+83,1,44996-1,445,out_of_stock
+84,1,81278,10,in_stock
+85,1,81277,10,in_stock
+86,1,16516,10,in_stock
+87,1,4,70,out_of_stock
+88,1,153326,105,in_stock
+89,1,901258,75,in_stock
+90,1,778,5,in_stock
+91,1,813,10,out_of_stock
+92,1,39872,30,in_stock
+93,1,6249,25,in_stock
+94,1,6244,30,in_stock
+95,1,14669,95,in_stock
+96,1,14666,95,in_stock
+97,1,44931,235,in_stock
+98,1,1308,15,in_stock
+99,1,9184,20,in_stock
+100,1,9185,50,out_of_stock
+101,1,107665,15,in_stock
+102,1,302055,20,in_stock
+103,1,2063,15,in_stock
+104,1,8769,15,in_stock
+105,1,8366,130,in_stock
+106,1,56309,20,in_stock
+107,1,57379,30,in_stock
+108,1,8367,130,in_stock
+109,1,44137,20,in_stock
+110,1,44135,20,in_stock
+111,1,51523,20,in_stock
+112,1,51524,20,in_stock
+113,1,44138,35,in_stock
+114,1,52196,5,in_stock
+115,1,52195,5,in_stock
+116,1,52194,5,out_of_stock
+117,1,52193,5,in_stock
+118,1,42997,15,in_stock
+119,1,409203,110,in_stock
+120,1,9103,190,in_stock
+121,1,1293,5,in_stock
+122,1,1310,5,out_of_stock
+123,1,11481,5,in_stock
+124,1,1297,5,in_stock
+125,1,41549,75,in_stock
+126,1,43864,25,in_stock
+127,1,564,60,out_of_stock
+128,1,44250,20,in_stock
+129,1,52991,15,out_of_stock
+130,1,794257,15,in_stock
+131,1,3819,15,in_stock
+132,1,44234,25,in_stock
+133,1,4087,40,out_of_stock
+134,1,9793,30,in_stock
+135,1,8171,45,in_stock
+136,1,5717,30,in_stock
+137,1,80062,5,in_stock
+138,1,9728,10,out_of_stock
+139,1,44363,20,in_stock
+140,1,44959,25,in_stock
+141,1,44366,25,in_stock
+142,1,44958,25,in_stock
+143,1,51601,20,in_stock
+144,1,51321,20,in_stock
+145,1,382,15,in_stock
+146,1,80333,25,in_stock
+147,1,80334,20,in_stock
+148,1,6580,710,out_of_stock
+149,1,56678,125,in_stock
+150,1,KIT-000001,1430,out_of_stock
+151,1,KIT-000011,140,out_of_stock
+152,1,58319,40,in_stock
+153,1,10048,35,out_of_stock
+154,1,50886,105,in_stock
+155,1,82220,95,out_of_stock
+156,1,7279,35,out_of_stock
+157,1,14713,30,in_stock
+158,1,9968,325,in_stock
+159,1,13941,115,in_stock
+160,1,11213,170,in_stock
+161,1,50546,185,in_stock
+162,1,11209,130,in_stock
+163,1,GE287,45,out_of_stock
+164,1,GE021,40,in_stock
+165,1,GE028,45,in_stock
+166,1,GE040,45,in_stock
+167,1,GE270,45,in_stock
+168,1,GE045,45,in_stock
+169,1,G190,45,in_stock
+170,1,G004,45,in_stock
+171,1,GE004,45,in_stock
+172,1,GE044,45,in_stock
+173,1,GE016,35,in_stock
+174,1,GE343,45,in_stock
+175,1,G183,90,in_stock
+176,1,GE346,45,in_stock
+177,1,GE001,45,in_stock
+178,1,GE121,45,in_stock
+179,1,GE303,45,out_of_stock
+180,1,GE019,45,in_stock
+181,1,GE008,35,in_stock
+182,1,GE042,45,in_stock
+183,1,GE023,45,in_stock
+184,1,GE302,45,in_stock
+185,1,GE024,45,in_stock
+186,1,14294,60,in_stock
+187,1,GE002,45,in_stock
+188,1,GE330,45,in_stock
+189,1,G259,45,in_stock
+190,1,GE370,45,in_stock
+191,1,GE036,45,out_of_stock
+192,1,G139,45,in_stock
+193,1,GE039,45,in_stock
+194,1, G109,60,in_stock
+195,1,GE010,45,in_stock
+196,1,101045,45,in_stock
+197,1,GE007,45,in_stock
+198,1,GE225,45,in_stock
+199,1, GE022,45,in_stock
+200,1,GE092,45,in_stock
+201,1,GE043,45,in_stock
+202,1,GE216,45,out_of_stock
+203,1,GE174,45,in_stock
+204,1,GE306,45,in_stock
+205,1,G030,45,in_stock
+206,1,GE052,45,in_stock
+207,1, GE358,45,in_stock
+208,1,G025,45,in_stock
+209,1,GE093,45,in_stock
+210,1,GE299,45,in_stock
+211,1,G299,80,in_stock
+212,1,GE077,45,in_stock
+213,1,GE009,45,in_stock
+214,1,GE031,40,in_stock
+215,1,GE047,45,in_stock
+216,1,GE340,45,out_of_stock
+217,1,GE012,45,in_stock
+218,1,GE310,45,in_stock
+219,1,5638,290,in_stock
+220,1,9079,25,in_stock
+221,1,292,25,in_stock
+222,1,4223,315,in_stock
+223,1,1371,50,in_stock
+224,1,1354,65,in_stock
+225,1,44370,65,out_of_stock
+226,1,42970,80,in_stock
+227,1,1161,170,in_stock
+228,1,7588,100,in_stock
+229,1,1200,130,in_stock
+230,1,1025,10,in_stock
+231,1,54955,25,in_stock
+232,1,42989,5,in_stock
+233,1,5630,25,out_of_stock
+234,1,1500,40,in_stock
+235,1,140,35,in_stock
+236,1,43479,5,in_stock
+237,1,54090,20,in_stock
+238,1,9205,15,in_stock
+239,1,1129,20,in_stock
+240,1,9104,15,out_of_stock
+241,1,6344,10,in_stock
+242,1,580,20,in_stock
+243,1,5620,15,in_stock
+244,1,51078,85,in_stock
+245,1,51079,75,in_stock
+246,1,5245,215,in_stock
+247,1,5246,190,in_stock
+248,1,8149,30,out_of_stock
+249,1,9863,20,in_stock
+250,1,9861,20,in_stock
+251,1,51713,40,out_of_stock
+252,1,51516,175,in_stock
+253,1,42879,65,in_stock
+254,1,42180,60,in_stock
+255,1,1332,30,out_of_stock
+256,1,51513,30,in_stock
+257,1,131,20,in_stock
+258,1,6619,210,in_stock
+259,1,98119,90,in_stock
+260,1,40041,10,in_stock
+261,1,1239,30,in_stock
+262,1,904593,5,in_stock
+263,1,901361,50,in_stock
+264,1,4186,30,in_stock
+265,1,9458-1,90,in_stock
+266,1,3156,310,in_stock
+267,1,9456-1,75,in_stock
+268,1,42850,110,out_of_stock
+269,1,009030-1,130,in_stock
+270,1,009031-1,130,in_stock
+271,1,51681,10,in_stock
+272,1,304569,30,in_stock
+273,1,172,15,in_stock
+274,1,939,30,in_stock
+275,1,12052,30,in_stock
+276,1,9450,25,out_of_stock
+277,1,108,60,out_of_stock
+278,1,10070,30,out_of_stock
+279,1,53965,60,in_stock
+280,1,8244,20,out_of_stock
+281,1,2010,25,in_stock
+282,1,9295,25,in_stock
+283,1,9610,20,out_of_stock
+284,1,51944,45,in_stock
+285,1,9293,25,in_stock
+286,1,59879,35,in_stock
+287,1,59652,50,in_stock
+288,1,10137,25,out_of_stock
+289,1,59759,50,in_stock
+290,1,9333,25,out_of_stock
+291,1,9265,30,out_of_stock
+292,1,10134,20,out_of_stock
+293,1,10132,20,out_of_stock
+294,1,59988,25,out_of_stock
+295,1,55160,10,in_stock
+296,1,53211,5,in_stock
+297,1,8104,5,in_stock
+298,1,108103,5,in_stock
+299,1,14637,10,out_of_stock
+300,1,3424,10,out_of_stock
+301,1,44345,50,in_stock
+302,1,4959,85,in_stock
+303,1,9169,40,in_stock
+304,1,150652,75,out_of_stock
+305,1,10274,70,in_stock
+306,1,10003,70,in_stock
+307,1,10236,35,in_stock
+308,1,1154,40,in_stock
+309,1,9988,55,out_of_stock
+310,1,10175,90,in_stock
+311,1,10174,90,in_stock
+312,1,9443,65,out_of_stock
+313,1,43173,25,out_of_stock
+314,1,54991,15,in_stock
+315,1,11985,10,in_stock
