@@ -70,7 +70,7 @@
 70,LUMAX,"137,0013",11.5,in_stock
 71,LUMAX,"137,0012",9,in_stock
 72,LUMAX,"137,0011",9,in_stock
-73,LUMAX,"137,0009",8,in_stock
+73,LUMAX,"137,0009",8,out_of_stock
 74,LUMAX,"137,0008",7.5,in_stock
 75,LUMAX,"137,0007",7,in_stock
 76,LUMAX,"137,0006",7,in_stock
