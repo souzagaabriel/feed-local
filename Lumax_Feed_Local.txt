@@ -207,7 +207,7 @@
 207,LUMAX,101024,60,in_stock
 208,LUMAX,101025,60,in_stock
 209,LUMAX,101022,60,in_stock
-210,LUMAX,"3,0001",265,in_stock
+210,LUMAX,"3,0001",265,out_of_stock
 211,LUMAX,SGT-3011A,270,out_of_stock
 212,LUMAX,PRO-204,35,out_of_stock
 213,LUMAX,PRO-206,40,out_of_stock
