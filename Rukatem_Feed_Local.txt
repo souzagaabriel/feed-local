@@ -1,5 +1,5 @@
 ﻿store_code,id,price,availability
-RUKATEM,9556,29.9,in_stock
+RUKATEM,9556,29.9,out_of_stock
 RUKATEM,1569,50,in_stock
 RUKATEM,11221,49.9,in_stock
 RUKATEM,11841,99.9,out_of_stock
@@ -121,7 +121,7 @@ RUKATEM,9281,17.9,in_stock
 RUKATEM,1440,28.9,in_stock
 RUKATEM,10767,23.9,in_stock
 RUKATEM,6919,32.5,in_stock
-RUKATEM,6990,24.9,out_of_stock
+RUKATEM,6990,24.9,in_stock
 RUKATEM,232,44.9,in_stock
 RUKATEM,3224,22.9,in_stock
 RUKATEM,10810,19.9,in_stock
@@ -159,7 +159,7 @@ RUKATEM,8611,16.9,out_of_stock
 RUKATEM,9020,19.9,in_stock
 RUKATEM,8967,77.9,out_of_stock
 RUKATEM,8267,15.5,in_stock
-RUKATEM,11415,19.9,in_stock
+RUKATEM,11415,19.9,out_of_stock
 RUKATEM,1976,34.9,in_stock
 RUKATEM,9223,22.9,in_stock
 RUKATEM,3364,13.9,in_stock
@@ -193,7 +193,7 @@ RUKATEM,8796,18.5,in_stock
 RUKATEM,4983,17.75,in_stock
 RUKATEM,11051,29.9,out_of_stock
 RUKATEM,5803,16.75,in_stock
-RUKATEM,4093,23.9,in_stock
+RUKATEM,4093,23.9,out_of_stock
 RUKATEM,2791,69.9,in_stock
 RUKATEM,4688,18.9,in_stock
 RUKATEM,6732,24.9,in_stock
