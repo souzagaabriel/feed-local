@@ -304,3 +304,6 @@ LUMAX,113989,20,out_of_stock
 LUMAX,090092AC,2.5,in_stock
 LUMAX,2809040048,65,in_stock
 LUMAX,2809028048,55,in_stock
+LUMAX,6814,70,in_stock
+LUMAX,414810M,30,in_stock
+LUMAX,2813,20,in_stock
