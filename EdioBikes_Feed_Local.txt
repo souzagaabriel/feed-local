@@ -1,5 +1,5 @@
 ﻿store_code,id,price,availability
-1,22555,220,in_stock
+1,22555,220,out_of_stock
 1,04667,15,in_stock
 1,9075,25,in_stock
 1,53729,10,in_stock
