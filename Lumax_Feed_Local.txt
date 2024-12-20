@@ -1,7 +1,7 @@
 ﻿store_code,id,price,availability
 LUMAX,L-510CME,20,in_stock
 LUMAX,141017,220,in_stock
-LUMAX,101013,230,in_stock
+LUMAX,101013,230,out_of_stock
 LUMAX,121124,145,in_stock
 LUMAX,151001,220,in_stock
 LUMAX,TP-036.F.GM2,75,in_stock
@@ -278,7 +278,7 @@ LUMAX,R27210010,85,in_stock
 LUMAX,9BK11,155,in_stock
 LUMAX,101215,95,in_stock
 LUMAX,103016,155,in_stock
-LUMAX,R27704061,60,in_stock
+LUMAX,R27704061,60,out_of_stock
 LUMAX,R27754061,60,in_stock
 LUMAX,R27604061,60,in_stock
 LUMAX,R27654061,60,in_stock
