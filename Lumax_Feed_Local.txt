@@ -2,7 +2,7 @@
 LUMAX,L-510CME,20,in_stock
 LUMAX,141017,220,in_stock
 LUMAX,101013,230,out_of_stock
-LUMAX,121124,145,in_stock
+LUMAX,121124,145,out_of_stock
 LUMAX,151001,220,in_stock
 LUMAX,TP-036.F.GM2,75,in_stock
 LUMAX,TP-036.F.FORD2,75,in_stock
