@@ -1,3 +1,2 @@
 ﻿store_code,id,price,availability
-LUMAX,012007,10,in_stock
 LUMAX,R28402165,45,in_stock
