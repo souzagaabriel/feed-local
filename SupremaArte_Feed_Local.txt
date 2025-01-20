@@ -1,4 +1,2 @@
 ﻿store_code,id,price,availability
-SUPREMAARTE,9609,33.9,in_stock
 SUPREMAARTE,10883,15.4,in_stock
-SUPREMAARTE,11974,18.5,in_stock
