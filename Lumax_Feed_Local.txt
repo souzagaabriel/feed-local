@@ -1,2 +1,2 @@
 ﻿store_code,id,price,availability
-LUMAX,R28402165,45,in_stock
+LUMAX,2809028048,55,in_stock
