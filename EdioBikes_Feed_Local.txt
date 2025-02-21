@@ -301,3 +301,5 @@
 1,8244,15,in_stock
 1,2259,100,in_stock
 1,5521,30,in_stock
+1,53129,10,in_stock
+1,09443,75,in_stock
