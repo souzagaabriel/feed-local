@@ -178,7 +178,7 @@ LUMAX,R010022,230,out_of_stock
 LUMAX,9AE2004,195,in_stock
 LUMAX,060230,360,out_of_stock
 LUMAX,KA-011,60,out_of_stock
-LUMAX,KF-082,95,out_of_stock
+LUMAX,KF-082,95,in_stock
 LUMAX,9TA27AA,295,out_of_stock
 LUMAX,Ac102TL,13.85,out_of_stock
 LUMAX,R92200040,115,in_stock
@@ -305,4 +305,4 @@ LUMAX,121124,145,in_stock
 LUMAX,101013,245,in_stock
 LUMAX,141017,220,in_stock
 LUMAX,L-510CME,20,in_stock
-LUMAX,R09100210 ,35,in_stock
+LUMAX,PRO-205,35,out_of_stock
