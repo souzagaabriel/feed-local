@@ -9,7 +9,6 @@
 1,011985,10,in_stock
 1,054991,15,in_stock
 1,043173,25,out_of_stock
-1,901374,35,in_stock
 1,6027,65,in_stock
 1,11880,75,in_stock
 1,51717,65,out_of_stock
@@ -27,7 +26,7 @@
 1,004959,85,in_stock
 1,44345,50,in_stock
 1,14637,10,out_of_stock
-1,108103,5,in_stock
+1,108103,5,out_of_stock
 1,08104,5,in_stock
 1,053211,5,in_stock
 1,55160,10,in_stock
@@ -171,7 +170,6 @@
 1,58319,40,out_of_stock
 1,KIT-000001,1430,out_of_stock
 1,056678,125,in_stock
-1,6580,710,out_of_stock
 1,80334,20,in_stock
 1,80333,25,in_stock
 1,0382,15,in_stock
@@ -303,3 +301,5 @@
 1,53129,10,in_stock
 1,9443,75,in_stock
 1,3424,15,in_stock
+1,8042,35,in_stock
+1,56678,80,in_stock
