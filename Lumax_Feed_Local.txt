@@ -297,7 +297,7 @@ LUMAX,SUP-026.FIRE,80,in_stock
 LUMAX,105001-00B,195,in_stock
 LUMAX,TR04,20,in_stock
 LUMAX,34462-2DG,995,in_stock
-LUMAX,TP-023.GM,140,out_of_stock
+LUMAX,TP-023.GM,140,in_stock
 LUMAX,TP-036.F.FORD2,75,in_stock
 LUMAX,TP-036.F.GM2,75,in_stock
 LUMAX,151001,220,in_stock
@@ -306,4 +306,4 @@ LUMAX,101013,245,in_stock
 LUMAX,141017,220,in_stock
 LUMAX,L-510CME,20,in_stock
 LUMAX,SGT-3011A,270,out_of_stock
-LUMAX,R09100210 ,35,in_stock
+LUMAX,PRO-205,35,out_of_stock
