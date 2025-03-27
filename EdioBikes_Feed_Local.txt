@@ -32,7 +32,7 @@
 1,55160,10,in_stock
 1,59988,25,out_of_stock
 1,10134,20,in_stock
-1,9265,35,in_stock
+1,9265,35,out_of_stock
 1,59759,50,in_stock
 1,000976,40,out_of_stock
 1,059563,45,in_stock
@@ -165,7 +165,7 @@
 1,07279,35,out_of_stock
 1,82220,95,in_stock
 1,050886,105,in_stock
-1,10048,35,in_stock
+1,10048,30,in_stock
 1,58319,40,out_of_stock
 1,KIT-000001,1430,out_of_stock
 1,80334,20,in_stock
@@ -260,7 +260,7 @@
 1,40748,20,out_of_stock
 1,52587,30,in_stock
 1,00186,35,in_stock
-1,43417,10,out_of_stock
+1,43417,10,in_stock
 1,43418,10,in_stock
 1,43131,95,in_stock
 1,1261,5,in_stock
@@ -293,7 +293,7 @@
 1,9075,25,in_stock
 1,04667,15,in_stock
 1,22555,220,out_of_stock
-1,8244,15,in_stock
+1,8244,15,out_of_stock
 1,2259,100,in_stock
 1,5521,30,in_stock
 1,53129,10,in_stock
