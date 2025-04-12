@@ -96,7 +96,7 @@ LUMAX,015270,195,out_of_stock
 LUMAX,R60000027,195,out_of_stock
 LUMAX,R40000027,95,in_stock
 LUMAX,R50000027,130,in_stock
-LUMAX,107700,124.7,in_stock
+LUMAX,107700,130,out_of_stock
 LUMAX,R03800010,115,out_of_stock
 LUMAX,012206,15,out_of_stock
 LUMAX,012007,10,in_stock
@@ -141,7 +141,7 @@ LUMAX,R01181011,30,in_stock
 LUMAX,R01181213,30,in_stock
 LUMAX,R01181617,35,in_stock
 LUMAX,036230,35,in_stock
-LUMAX,036030,20,out_of_stock
+LUMAX,036030,20,in_stock
 LUMAX,036250,15,in_stock
 LUMAX,036060,20,in_stock
 LUMAX,036070,20,in_stock
@@ -306,4 +306,4 @@ LUMAX,101013,245,in_stock
 LUMAX,141017,220,in_stock
 LUMAX,L-510CME,20,in_stock
 LUMAX,SGT-3011A,270,out_of_stock
-LUMAX,R09100210 ,35,in_stock
+LUMAX,PRO-205,35,out_of_stock
