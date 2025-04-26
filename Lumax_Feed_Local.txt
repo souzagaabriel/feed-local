@@ -22,7 +22,7 @@ LUMAX,AD 767 F 1/4,10,in_stock
 LUMAX,AD 767 M 1/4,10,in_stock
 LUMAX,1641793020,15,out_of_stock
 LUMAX,R28502165,45,in_stock
-LUMAX,R28100010,95,in_stock
+LUMAX,R28100010,95,out_of_stock
 LUMAX,R28402165,45,in_stock
 LUMAX,R27654061,60,in_stock
 LUMAX,R27604061,60,in_stock
@@ -51,7 +51,7 @@ LUMAX,163650T,30,in_stock
 LUMAX,168020T,30,in_stock
 LUMAX,183225T,20,in_stock
 LUMAX,168025T,30,in_stock
-LUMAX,183230T,20,out_of_stock
+LUMAX,183230T,20,in_stock
 LUMAX,183240T,20,in_stock
 LUMAX,168040T,30,in_stock
 LUMAX,183245T,20,in_stock
@@ -296,7 +296,7 @@ LUMAX,223508M,20,in_stock
 LUMAX,SUP-026.FIRE,80,in_stock
 LUMAX,105001-00B,195,in_stock
 LUMAX,TR04,20,in_stock
-LUMAX,34462-2DG,995,in_stock
+LUMAX,34462-2DG,995,out_of_stock
 LUMAX,TP-023.GM,140,in_stock
 LUMAX,TP-036.F.FORD2,75,in_stock
 LUMAX,TP-036.F.GM2,75,in_stock
@@ -306,3 +306,4 @@ LUMAX,101013,245,in_stock
 LUMAX,141017,220,in_stock
 LUMAX,L-510CME,20,in_stock
 LUMAX,SGT-3011A,270,out_of_stock
+LUMAX,PRO-205,35,out_of_stock
