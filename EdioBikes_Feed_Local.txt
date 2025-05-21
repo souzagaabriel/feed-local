@@ -101,7 +101,7 @@
 1,9079,25,in_stock
 1,5638,290,in_stock
 1,GE310,45,in_stock
-1,GE340,45,in_stock
+1,GE340,45,out_of_stock
 1,GE047,45,in_stock
 1,GE031,40,in_stock
 1,GE009,45,in_stock
@@ -167,7 +167,7 @@
 1,10048,30,in_stock
 1,58319,40,out_of_stock
 1,KIT-000001,1430,out_of_stock
-1,80334,20,in_stock
+1,80334,20,out_of_stock
 1,80333,25,in_stock
 1,0382,15,in_stock
 1,51321,20,in_stock
