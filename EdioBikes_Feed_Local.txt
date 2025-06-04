@@ -79,7 +79,6 @@
 1,5620,15,in_stock
 1,0580,20,in_stock
 1,6344,10,in_stock
-1,01129,30,out_of_stock
 1,9205,15,in_stock
 1,54090,20,in_stock
 1,43479,10,in_stock
@@ -303,3 +302,4 @@
 1,04087,40,in_stock
 1,4289,15,in_stock
 1,44154,65,out_of_stock
+1,1129,30,out_of_stock
