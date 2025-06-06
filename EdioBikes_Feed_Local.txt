@@ -303,3 +303,4 @@
 1,4289,15,in_stock
 1,44154,65,out_of_stock
 1,1129,30,out_of_stock
+1,44363,20,in_stock
