@@ -10,7 +10,7 @@
 1,054991,15,in_stock
 1,043173,25,out_of_stock
 1,6027,65,in_stock
-1,11880,75,in_stock
+1,11880,75,out_of_stock
 1,51717,65,out_of_stock
 1,15069,65,in_stock
 1,17309,45,out_of_stock
@@ -155,7 +155,7 @@
 1,07279,35,out_of_stock
 1,82220,95,in_stock
 1,050886,105,in_stock
-1,10048,30,in_stock
+1,10048,30,out_of_stock
 1,58319,40,out_of_stock
 1,KIT-000001,1430,out_of_stock
 1,80334,20,out_of_stock
