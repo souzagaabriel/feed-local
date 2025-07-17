@@ -148,7 +148,7 @@ LUMAX,633030M,75,in_stock
 LUMAX,633032M,75,in_stock
 LUMAX,633034M,95,in_stock
 LUMAX,633038M,95,in_stock
-LUMAX,633041M,95,in_stock
+LUMAX,633041M,95,out_of_stock
 LUMAX,433008MR,20,in_stock
 LUMAX,433009MR,20,in_stock
 LUMAX,423009M,45,in_stock
@@ -164,7 +164,7 @@ LUMAX,423524M,70,out_of_stock
 LUMAX,223507M,20,in_stock
 LUMAX,SUP-026.FIRE,95,in_stock
 LUMAX,TR04,20,in_stock
-LUMAX,TP-023.GM,140,in_stock
+LUMAX,TP-023.GM,140,out_of_stock
 LUMAX,TP-036.F.FORD2,80,in_stock
 LUMAX,151001,220,in_stock
 LUMAX,101013,245,in_stock
