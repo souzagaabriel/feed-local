@@ -72,7 +72,7 @@ LUMAX,4158050000,11.3,out_of_stock
 LUMAX,4158060000,14.5,out_of_stock
 LUMAX,4158070000,19.8,out_of_stock
 LUMAX,4158080000,19.5,out_of_stock
-LUMAX,"137,0003",5,in_stock
+LUMAX,"137,0003",5,out_of_stock
 LUMAX,"137,0004",5,in_stock
 LUMAX,"137,0005",6,in_stock
 LUMAX,"137,0006",7,in_stock
