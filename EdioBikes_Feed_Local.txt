@@ -112,7 +112,7 @@
 1,GE092,45,in_stock
 1,GE225,45,in_stock
 1,GE007,45,in_stock
-1,G109,55,in_stock
+1,G109,55,out_of_stock
 1,GE010,45,in_stock
 1,GE039,45,in_stock
 1,G139,45,in_stock
