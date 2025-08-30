@@ -72,16 +72,16 @@ LUMAX,4158050000,11.3,out_of_stock
 LUMAX,4158060000,14.5,out_of_stock
 LUMAX,4158070000,19.8,out_of_stock
 LUMAX,4158080000,19.5,out_of_stock
-LUMAX,"137,0003",5,out_of_stock
+LUMAX,"137,0003",5,in_stock
 LUMAX,"137,0004",5,in_stock
 LUMAX,"137,0005",6,in_stock
 LUMAX,"137,0006",7,in_stock
 LUMAX,"137,0007",7,in_stock
 LUMAX,"137,0008",7.5,in_stock
 LUMAX,"137,0009",8,in_stock
-LUMAX,"137,0011",9,out_of_stock
+LUMAX,"137,0011",9,in_stock
 LUMAX,"137,0012",9,in_stock
-LUMAX,"137,0013",11.5,out_of_stock
+LUMAX,"137,0013",11.5,in_stock
 LUMAX,"137,0014",12,in_stock
 LUMAX,"137,0015",13,in_stock
 LUMAX,4453-18FR,195,out_of_stock
@@ -212,7 +212,7 @@ LUMAX,036230,35,in_stock
 LUMAX,036030,20,in_stock
 LUMAX,036250,20,in_stock
 LUMAX,036070,20,in_stock
-LUMAX,036260,20,in_stock
+LUMAX,036260,20,out_of_stock
 LUMAX,036090,25,in_stock
 LUMAX,036110,25,in_stock
 LUMAX,036200,35,in_stock
@@ -277,7 +277,7 @@ LUMAX,R05121213,20,in_stock
 LUMAX,R92160008,95,in_stock
 LUMAX,151005,70,in_stock
 LUMAX,ST13305SC,25,in_stock
-LUMAX,R63001716,65,in_stock
+LUMAX,R63001716,65,out_of_stock
 LUMAX,423512M,45,in_stock
 LUMAX,R60000027,195,in_stock
 LUMAX,KF-082,95,in_stock
