@@ -189,7 +189,7 @@
 1,51524,25,in_stock
 1,51523,25,in_stock
 1,44135,20,in_stock
-1,44137,20,in_stock
+1,44137,25,in_stock
 1,8367,130,in_stock
 1,8366,130,in_stock
 1,57379,30,in_stock
