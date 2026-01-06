@@ -164,7 +164,7 @@
 1,44959,25,in_stock
 1,80062,5,in_stock
 1,5717,30,in_stock
-1,8171,45,in_stock
+1,8171,45,out_of_stock
 1,9793,30,in_stock
 1,44234,25,out_of_stock
 1,3819,15,in_stock
@@ -174,7 +174,7 @@
 1,44250,20,in_stock
 1,43864,25,in_stock
 1,41549,75,in_stock
-1,153775,5,in_stock
+1,153775,5,out_of_stock
 1,11481,5,in_stock
 1,1310,5,out_of_stock
 1,1293,5,in_stock
@@ -283,7 +283,7 @@
 1,8042,40,in_stock
 1,56678,80,out_of_stock
 1,6580,710,out_of_stock
-1,9262,20,in_stock
+1,9262,20,out_of_stock
 1,04087,40,out_of_stock
 1,4289,15,in_stock
 1,44154,65,out_of_stock
