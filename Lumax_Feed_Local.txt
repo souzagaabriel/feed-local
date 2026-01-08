@@ -45,7 +45,7 @@ LUMAX,102530T,10,in_stock
 LUMAX,102502P,10,in_stock
 LUMAX,183227T,20,in_stock
 LUMAX,163630T,20,in_stock
-LUMAX,163640T,30,in_stock
+LUMAX,163640T,30,out_of_stock
 LUMAX,163645T,25,in_stock
 LUMAX,163650T,30,in_stock
 LUMAX,168020T,30,in_stock
