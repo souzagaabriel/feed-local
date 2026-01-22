@@ -181,7 +181,7 @@ LUMAX,Ac102TL,13.85,out_of_stock
 LUMAX,3599600302,30,in_stock
 LUMAX,ST13314SC,25,out_of_stock
 LUMAX,105001-00B,195,in_stock
-LUMAX,34462-2DG,995,in_stock
+LUMAX,34462-2DG,995,out_of_stock
 LUMAX,R09100090,20,in_stock
 LUMAX,R62452110,45,in_stock
 LUMAX,ST13308SC,25,out_of_stock
@@ -220,7 +220,7 @@ LUMAX,036240,35,in_stock
 LUMAX,036080,20,in_stock
 LUMAX,036244,60,in_stock
 LUMAX,004509,30,out_of_stock
-LUMAX,024860,30,in_stock
+LUMAX,024860,30,out_of_stock
 LUMAX,024870,35,in_stock
 LUMAX,024880,35,in_stock
 LUMAX,024890,35,in_stock
