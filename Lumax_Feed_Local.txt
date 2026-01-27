@@ -220,7 +220,7 @@ LUMAX,036240,35,in_stock
 LUMAX,036080,20,in_stock
 LUMAX,036244,60,in_stock
 LUMAX,004509,30,out_of_stock
-LUMAX,024860,30,out_of_stock
+LUMAX,024860,30,in_stock
 LUMAX,024870,35,in_stock
 LUMAX,024880,35,in_stock
 LUMAX,024890,35,in_stock
