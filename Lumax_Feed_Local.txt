@@ -218,7 +218,7 @@ LUMAX,036110,25,in_stock
 LUMAX,036200,35,in_stock
 LUMAX,036240,35,in_stock
 LUMAX,036080,20,in_stock
-LUMAX,036244,60,out_of_stock
+LUMAX,036244,60,in_stock
 LUMAX,004509,30,out_of_stock
 LUMAX,024860,30,in_stock
 LUMAX,024870,35,in_stock
@@ -234,7 +234,7 @@ LUMAX,015017,35,out_of_stock
 LUMAX,423517M,45,in_stock
 LUMAX,423521M,55,in_stock
 LUMAX,223555M,20,in_stock
-LUMAX,R40000027,95,out_of_stock
+LUMAX,R40000027,95,in_stock
 LUMAX,012208,15,out_of_stock
 LUMAX,R01800010,35,in_stock
 LUMAX,R01800011,35,in_stock
