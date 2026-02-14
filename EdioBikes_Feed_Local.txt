@@ -130,7 +130,7 @@
 1,GE346,45,in_stock
 1,G183,90,in_stock
 1,GE343,45,in_stock
-1,GE016,45,in_stock
+1,GE016,50,in_stock
 1,GE044,45,in_stock
 1,GE004,45,in_stock
 1,G004,45,in_stock
