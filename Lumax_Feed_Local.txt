@@ -21,7 +21,7 @@ LUMAX,AD 767/657 3/8,10,in_stock
 LUMAX,AD 767 F 1/4,10,in_stock
 LUMAX,AD 767 M 1/4,10,in_stock
 LUMAX,1641793020,15,out_of_stock
-LUMAX,R28502165,45,out_of_stock
+LUMAX,R28502165,45,in_stock
 LUMAX,R28100010,95,in_stock
 LUMAX,R28402165,45,in_stock
 LUMAX,R27654061,60,in_stock
@@ -30,7 +30,7 @@ LUMAX,R27754061,60,in_stock
 LUMAX,R27704061,60,in_stock
 LUMAX,103016,155,in_stock
 LUMAX,101215,95,in_stock
-LUMAX,9BK11,155,out_of_stock
+LUMAX,9BK11,160,in_stock
 LUMAX,R27210010,85,in_stock
 LUMAX,R28301200,60,in_stock
 LUMAX,R99210000,120,in_stock
@@ -85,7 +85,7 @@ LUMAX,"137,0013",12,in_stock
 LUMAX,"137,0014",12,in_stock
 LUMAX,"137,0015",13,in_stock
 LUMAX,4453-18FR,195,in_stock
-LUMAX,2571-45,40,out_of_stock
+LUMAX,2571-45,40,in_stock
 LUMAX,R65200049,75,in_stock
 LUMAX,CXA-002,195,in_stock
 LUMAX,77340-20,80,in_stock
@@ -233,7 +233,7 @@ LUMAX,015017,35,out_of_stock
 LUMAX,423517M,45,in_stock
 LUMAX,423521M,55,in_stock
 LUMAX,223555M,20,in_stock
-LUMAX,R40000027,95,out_of_stock
+LUMAX,R40000027,95,in_stock
 LUMAX,012208,15,out_of_stock
 LUMAX,R01800010,35,in_stock
 LUMAX,R01800011,35,in_stock
