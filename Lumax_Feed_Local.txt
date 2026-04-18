@@ -15,7 +15,7 @@ LUMAX,AD 200 M 1/4,20,in_stock
 LUMAX,675630,12.5,out_of_stock
 LUMAX,3812,30,in_stock
 LUMAX,4866P,95,in_stock
-LUMAX,6864P,130,in_stock
+LUMAX,6864P,130,out_of_stock
 LUMAX,3599000303,60,in_stock
 LUMAX,AD 767/657 3/8,10,in_stock
 LUMAX,AD 767 F 1/4,10,in_stock
