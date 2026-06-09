@@ -300,7 +300,7 @@ LUMAX,R27160012,135,out_of_stock
 LUMAX,106500,560,in_stock
 LUMAX,1011MQ,295,in_stock
 LUMAX,R62451819,60,in_stock
-LUMAX,PRO-150,590,in_stock
+LUMAX,PRO-150,590,out_of_stock
 LUMAX,024910,45,in_stock
 LUMAX,101208,45,out_of_stock
 LUMAX,R01800015,35,in_stock
