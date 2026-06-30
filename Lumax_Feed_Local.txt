@@ -17,7 +17,7 @@ LUMAX,3812,30,in_stock
 LUMAX,4866P,95,in_stock
 LUMAX,6864P,130,in_stock
 LUMAX,3599000303,60,out_of_stock
-LUMAX,AD 767/657 3/8,10,in_stock
+LUMAX,AD 767/657 3/8,10,out_of_stock
 LUMAX,AD 767 F 1/4,10,in_stock
 LUMAX,AD 767 M 1/4,10,in_stock
 LUMAX,1641793020,15,in_stock
@@ -77,9 +77,9 @@ LUMAX,"137,0004",5,in_stock
 LUMAX,"137,0005",6,in_stock
 LUMAX,"137,0006",7,in_stock
 LUMAX,"137,0007",7,in_stock
-LUMAX,"137,0008",7.5,in_stock
+LUMAX,"137,0008",8,in_stock
 LUMAX,"137,0009",8,in_stock
-LUMAX,"137,0011",9,out_of_stock
+LUMAX,"137,0011",9,in_stock
 LUMAX,"137,0012",9,in_stock
 LUMAX,"137,0013",12,in_stock
 LUMAX,"137,0014",12,in_stock
