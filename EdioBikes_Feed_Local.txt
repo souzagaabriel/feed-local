@@ -4,7 +4,7 @@
 1,G329,65,in_stock
 1,G058,65,in_stock
 1,GE335,60,in_stock
-1,1095,5,in_stock
+1,1095,5,out_of_stock
 1,011985,10,in_stock
 1,054991,15,in_stock
 1,043173,25,out_of_stock
