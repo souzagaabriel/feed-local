@@ -101,7 +101,7 @@
 1,GE306,45,in_stock
 1,53967,10,in_stock
 1,GE174,45,in_stock
-1,GE216,50,in_stock
+1,GE216,50,out_of_stock
 1,GE043,45,in_stock
 1,GE092,45,in_stock
 1,GE225,45,in_stock
