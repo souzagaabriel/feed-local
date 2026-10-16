@@ -288,7 +288,7 @@ LUMAX,443515M,65,in_stock
 LUMAX,121501,865,in_stock
 LUMAX,KA-011,60,out_of_stock
 LUMAX,505023,28.95,out_of_stock
-LUMAX,151003,60,in_stock
+LUMAX,151003,70,in_stock
 LUMAX,R61101406,25,in_stock
 LUMAX,ST13320SC,20,in_stock
 LUMAX,1015PQ,295,in_stock
